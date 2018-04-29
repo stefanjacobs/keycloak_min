@@ -1,7 +1,5 @@
 FROM openjdk:8-jdk-alpine
 
-MAINTAINER stefan_j@gmx.de
-
 ENV KEYCLOAK_VERSION 3.4.3.Final
 ENV KEYCLOAK_PORT=8080
 ENV KEYCLOAK_ADMIN_USER=admin
